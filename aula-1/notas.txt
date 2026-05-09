@@ -1,0 +1,17 @@
+SPEC-DRIVEN AGENT
+---
+
+Entender como os contratos sao carregados.
+
+---
+
+Runtime le os contratos e executa.
+
+---
+
+Abrir arquivos de runtime, procurar entender a funcao rodar/run.
+-> Perceber, planejar, validar, agir e avaliar.
+
+---
+
+Entender melhor o trace.json e rastrear o trace pro codigo. 
