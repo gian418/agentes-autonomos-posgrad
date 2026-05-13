@@ -1,4 +1,5 @@
 SPEC-DRIVEN AGENT
+CONTRACT DRIVEN DEVELOPMENT
 ---
 
 Entender como os contratos sao carregados.
